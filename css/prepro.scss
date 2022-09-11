@@ -1,0 +1,24 @@
+.owl-nav{
+.owl-next:before{
+  content: "\f054";
+  font-family: "Font Awesome 6 Free",sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+  color: black;
+}
+  .owl-next{
+    position: absolute;
+    right: -3px;
+    top:35%
+  }
+  .owl-prev:before{
+    font-family: "Font Awesome 6 Free",sans-serif;
+    font-weight: 900;
+    content: "\f053";
+    font-size: 50px;
+    color: black;}
+  .owl-prev{
+    position: absolute;
+    left: -5px;
+    top:36%;}
+}
